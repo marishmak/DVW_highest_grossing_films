@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Highest-Grossing Films</title>
+    <style>
+        p::first-letter {
+        font-size: 200%;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+        section {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 1rem;
+            background-color: #fff;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        input[type="text"] {
+            padding: 0.5rem;
+            width: 300px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        header {
+            background-color: #a3a3a3;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+        }
+        button {
+            padding: 0.5rem 1rem;
+            background-color: #a3a3a3;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #a3a3a3;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem auto;
+            max-width: 1200px;
+        }
+
+        th, td {
+            padding: 0.5rem;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        th {
+            background-color: #a3a3a3;
+        }
+    
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Highest-Grossing Films</h1>
+    </header>
+
+    <section>
+        <button onclick="sortTable(1)">Sort by Release Year</button>
+        <button onclick="sortTable(3)">Sort by Box Office Revenue</button>
+    </section>
+
+    <table id="filmTable">
+        <thead>
+            <tr>
+                <th>Film Title</th>
+                <th>Release Year</th>
+                <th>Director(s)</th>
+                <th>Box Office Revenue</th>
+                <th>Country(s) of Origin</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Data will be dynamically inserted here -->
+        </tbody>
+    </table>
+
+    <script src="script.js"></script>
+</body>
+</html>
