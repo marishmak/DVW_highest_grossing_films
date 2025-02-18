@@ -1,11 +1,11 @@
 [
     {
         "Film Title": "Avatar",
-        "Release Year": 1,
+        "Release Year": 2009,
         "Director(s)": [
             "James Cameron"
         ],
-        "Box Office Revenue": 1.0,
+        "Box Office Revenue": 2923706026.0,
         "Country of Origin": [
             "United Kingdom",
             "United States"
@@ -13,157 +13,157 @@
     },
     {
         "Film Title": "Avengers: Endgame",
-        "Release Year": 1,
+        "Release Year": 2019,
         "Director(s)": [
             "Anthony Russo",
             "Joe Russo"
         ],
-        "Box Office Revenue": 2.0,
+        "Box Office Revenue": 2797501328.0,
         "Country of Origin": [
             "United States"
         ]
     },
     {
         "Film Title": "Avatar: The Way of Water",
-        "Release Year": 3,
+        "Release Year": 2022,
         "Director(s)": [
             "James Cameron"
         ],
-        "Box Office Revenue": 3.0,
+        "Box Office Revenue": 2320250281.0,
         "Country of Origin": [
             "United States"
         ]
     },
     {
         "Film Title": "Titanic",
-        "Release Year": 1,
+        "Release Year": 1997,
         "Director(s)": [
             "James Cameron"
         ],
-        "Box Office Revenue": 4.0,
+        "Box Office Revenue": 2257844554.0,
         "Country of Origin": [
             "United States"
         ]
     },
     {
         "Film Title": "Star Wars: The Force Awakens",
-        "Release Year": 3,
+        "Release Year": 2015,
         "Director(s)": [
             "J. J. Abrams"
         ],
-        "Box Office Revenue": 5.0,
+        "Box Office Revenue": 2068223624.0,
         "Country of Origin": [
             "United States"
         ]
     },
     {
         "Film Title": "Avengers: Infinity War",
-        "Release Year": 4,
+        "Release Year": 2018,
         "Director(s)": [
             "Anthony Russo",
             "Joe Russo"
         ],
-        "Box Office Revenue": 6.0,
+        "Box Office Revenue": 2048359754.0,
         "Country of Origin": [
             "United States"
         ]
     },
     {
         "Film Title": "Spider-Man: No Way Home",
-        "Release Year": 6,
+        "Release Year": 2021,
         "Director(s)": [
             "Jon Watts"
         ],
-        "Box Office Revenue": 7.0,
+        "Box Office Revenue": 1922598800.0,
         "Country of Origin": [
             "United States"
         ]
     },
     {
         "Film Title": "Inside Out 2",
-        "Release Year": 8,
+        "Release Year": 2024,
         "Director(s)": [
             "Kelsey Mann"
         ],
-        "Box Office Revenue": 8.0,
-        "Country of Origin": [
-            "United States"
-        ]
-    },
-    {
-        "Film Title": "Jurassic World",
-        "Release Year": 3,
-        "Director(s)": [
-            "Colin Trevorrow"
-        ],
-        "Box Office Revenue": 9.0,
+        "Box Office Revenue": 1698863816.0,
         "Country of Origin": [
             "United States"
         ]
     },
     {
         "Film Title": "Ne Zha 2",
-        "Release Year": 10,
+        "Release Year": 2025,
         "Director(s)": [
             "Jiaozi"
         ],
-        "Box Office Revenue": 10.0,
+        "Box Office Revenue": 1681590000.0,
         "Country of Origin": [
             "China"
         ]
     },
     {
+        "Film Title": "Jurassic World",
+        "Release Year": 2015,
+        "Director(s)": [
+            "Colin Trevorrow"
+        ],
+        "Box Office Revenue": 1671537444.0,
+        "Country of Origin": [
+            "United States"
+        ]
+    },
+    {
         "Film Title": "The Lion King",
-        "Release Year": 7,
+        "Release Year": 2019,
         "Director(s)": [
             "Jon Favreau"
         ],
-        "Box Office Revenue": 11.0,
+        "Box Office Revenue": 1656943394.0,
         "Country of Origin": [
             "United States"
         ]
     },
     {
         "Film Title": "The Avengers",
-        "Release Year": 3,
+        "Release Year": 2012,
         "Director(s)": [
             "Joss Whedon"
         ],
-        "Box Office Revenue": 12.0,
+        "Box Office Revenue": 1518815515.0,
         "Country of Origin": [
             "United States"
         ]
     },
     {
         "Film Title": "Top Gun: Maverick",
-        "Release Year": 11,
+        "Release Year": 2022,
         "Director(s)": [
             "Joseph Kosinski"
         ],
-        "Box Office Revenue": 14.0,
+        "Box Office Revenue": 1495696292.0,
         "Country of Origin": [
             "United States"
         ]
     },
     {
         "Film Title": "Frozen 2",
-        "Release Year": 10,
+        "Release Year": 2019,
         "Director(s)": [
             "Chris Buck",
             "Jennifer Lee"
         ],
-        "Box Office Revenue": 15.0,
+        "Box Office Revenue": 1450026933.0,
         "Country of Origin": [
             "United States"
         ]
     },
     {
         "Film Title": "Barbie",
-        "Release Year": 14,
+        "Release Year": 2023,
         "Director(s)": [
             "Greta Gerwig"
         ],
-        "Box Office Revenue": 16.0,
+        "Box Office Revenue": 1447038421.0,
         "Country of Origin": [
             "United States",
             "United Kingdom"
@@ -171,45 +171,45 @@
     },
     {
         "Film Title": "Avengers: Age of Ultron",
-        "Release Year": 5,
+        "Release Year": 2015,
         "Director(s)": [
             "Joss Whedon"
         ],
-        "Box Office Revenue": 17.0,
+        "Box Office Revenue": 1402809540.0,
         "Country of Origin": [
             "United States"
         ]
     },
     {
         "Film Title": "The Super Mario Bros. Movie",
-        "Release Year": 15,
+        "Release Year": 2023,
         "Director(s)": [
             "Aaron Horvath",
             "Michael Jelenic"
         ],
-        "Box Office Revenue": 18.0,
+        "Box Office Revenue": 1362566989.0,
         "Country of Origin": [
             "United States"
         ]
     },
     {
         "Film Title": "Black Panther",
-        "Release Year": 9,
+        "Release Year": 2018,
         "Director(s)": [
             "Ryan Coogler"
         ],
-        "Box Office Revenue": 19.0,
+        "Box Office Revenue": 1347280838.0,
         "Country of Origin": [
             "United States"
         ]
     },
     {
         "Film Title": "Harry Potter and the Deathly Hallows – Part 2",
-        "Release Year": 3,
+        "Release Year": 2011,
         "Director(s)": [
             "David Yates"
         ],
-        "Box Office Revenue": 20.0,
+        "Box Office Revenue": 1342139727.0,
         "Country of Origin": [
             "United Kingdom",
             "United States"
@@ -217,33 +217,33 @@
     },
     {
         "Film Title": "Deadpool & Wolverine",
-        "Release Year": 20,
+        "Release Year": 2024,
         "Director(s)": [
             "Shawn Levy"
         ],
-        "Box Office Revenue": 21.0,
+        "Box Office Revenue": 1338073645.0,
         "Country of Origin": [
             "United States"
         ]
     },
     {
         "Film Title": "Star Wars: The Last Jedi",
-        "Release Year": 9,
+        "Release Year": 2017,
         "Director(s)": [
             "Rian Johnson"
         ],
-        "Box Office Revenue": 22.0,
+        "Box Office Revenue": 1332539889.0,
         "Country of Origin": [
             "United States"
         ]
     },
     {
         "Film Title": "Jurassic World: Fallen Kingdom",
-        "Release Year": 12,
+        "Release Year": 2018,
         "Director(s)": [
             "J. A. Bayona"
         ],
-        "Box Office Revenue": 23.0,
+        "Box Office Revenue": 1308473425.0,
         "Country of Origin": [
             "China",
             "United States"
@@ -251,45 +251,45 @@
     },
     {
         "Film Title": "Frozen",
-        "Release Year": 5,
+        "Release Year": 2013,
         "Director(s)": [
             "Chris Buck",
             "Jennifer Lee"
         ],
-        "Box Office Revenue": 24.0,
+        "Box Office Revenue": 1290000000.0,
         "Country of Origin": [
             "United States"
         ]
     },
     {
         "Film Title": "Beauty and the Beast",
-        "Release Year": 10,
+        "Release Year": 2017,
         "Director(s)": [
             "Bill Condon"
         ],
-        "Box Office Revenue": 25.0,
+        "Box Office Revenue": 1263521126.0,
         "Country of Origin": [
             "United States"
         ]
     },
     {
         "Film Title": "Incredibles 2",
-        "Release Year": 15,
+        "Release Year": 2018,
         "Director(s)": [
             "Brad Bird"
         ],
-        "Box Office Revenue": 26.0,
+        "Box Office Revenue": 1242805359.0,
         "Country of Origin": [
             "United States"
         ]
     },
     {
         "Film Title": "The Fate of the Furious",
-        "Release Year": 11,
+        "Release Year": 2017,
         "Director(s)": [
             "F. Gary Gray"
         ],
-        "Box Office Revenue": 27.0,
+        "Box Office Revenue": 81238764765.0,
         "Country of Origin": [
             "United States",
             "China"
@@ -297,57 +297,57 @@
     },
     {
         "Film Title": "Iron Man 3",
-        "Release Year": 5,
+        "Release Year": 2013,
         "Director(s)": [
             "Shane Black"
         ],
-        "Box Office Revenue": 28.0,
+        "Box Office Revenue": 1214811252.0,
         "Country of Origin": [
             "United States"
         ]
     },
     {
         "Film Title": "Minions",
-        "Release Year": 10,
+        "Release Year": 2015,
         "Director(s)": [
             "Pierre Coffin",
             "Kyle Balda"
         ],
-        "Box Office Revenue": 29.0,
+        "Box Office Revenue": 1159444662.0,
         "Country of Origin": [
             "United States"
         ]
     },
     {
         "Film Title": "Captain America: Civil War",
-        "Release Year": 12,
+        "Release Year": 2016,
         "Director(s)": [
             "Anthony Russo",
             "Joe Russo"
         ],
-        "Box Office Revenue": 30.0,
+        "Box Office Revenue": 1153337496.0,
         "Country of Origin": [
             "United States"
         ]
     },
     {
         "Film Title": "Aquaman",
-        "Release Year": 20,
+        "Release Year": 2018,
         "Director(s)": [
             "James Wan"
         ],
-        "Box Office Revenue": 31.0,
+        "Box Office Revenue": 1148528393.0,
         "Country of Origin": [
             "United States"
         ]
     },
     {
         "Film Title": "The Lord of the Rings: The Return of the King",
-        "Release Year": 2,
+        "Release Year": 2003,
         "Director(s)": [
             "Peter Jackson"
         ],
-        "Box Office Revenue": 32.0,
+        "Box Office Revenue": 1147997407.0,
         "Country of Origin": [
             "New Zealand",
             "Germany",
@@ -356,11 +356,11 @@
     },
     {
         "Film Title": "Skyfall",
-        "Release Year": 7,
+        "Release Year": 2012,
         "Director(s)": [
             "Sam Mendes"
         ],
-        "Box Office Revenue": 36.0,
+        "Box Office Revenue": 1108594137.0,
         "Country of Origin": [
             "United Kingdom",
             "United States"
@@ -368,22 +368,22 @@
     },
     {
         "Film Title": "Transformers: Age of Extinction",
-        "Release Year": 10,
+        "Release Year": 2014,
         "Director(s)": [
             "Michael Bay"
         ],
-        "Box Office Revenue": 37.0,
+        "Box Office Revenue": 1104054072.0,
         "Country of Origin": [
             "United States"
         ]
     },
     {
         "Film Title": "The Dark Knight Rises",
-        "Release Year": 7,
+        "Release Year": 2012,
         "Director(s)": [
             "Christopher Nolan"
         ],
-        "Box Office Revenue": 38.0,
+        "Box Office Revenue": 1081169825.0,
         "Country of Origin": [
             "United States",
             "United Kingdom"
@@ -391,125 +391,125 @@
     },
     {
         "Film Title": "Joker",
-        "Release Year": 31,
+        "Release Year": 2019,
         "Director(s)": [
             "Todd Phillips"
         ],
-        "Box Office Revenue": 39.0,
+        "Box Office Revenue": 1074458282.0,
         "Country of Origin": [
             "United States"
         ]
     },
     {
         "Film Title": "Star Wars: The Rise of Skywalker",
-        "Release Year": 32,
+        "Release Year": 2019,
         "Director(s)": [
             "J. J. Abrams"
         ],
-        "Box Office Revenue": 40.0,
+        "Box Office Revenue": 1074144248.0,
         "Country of Origin": [
             "United States"
         ]
     },
     {
         "Film Title": "Toy Story 4",
-        "Release Year": 30,
+        "Release Year": 2019,
         "Director(s)": [
             "Josh Cooley"
         ],
-        "Box Office Revenue": 41.0,
+        "Box Office Revenue": 1073394593.0,
         "Country of Origin": [
             "United States"
         ]
     },
     {
         "Film Title": "Pirates of the Caribbean: Dead Man's Chest",
-        "Release Year": 3,
+        "Release Year": 2006,
         "Director(s)": [
             "Gore Verbinski"
         ],
-        "Box Office Revenue": 43.0,
+        "Box Office Revenue": 1066179747.0,
         "Country of Origin": [
             "United States"
         ]
     },
     {
         "Film Title": "Rogue One: A Star Wars Story",
-        "Release Year": 20,
+        "Release Year": 2016,
         "Director(s)": [
             "Gareth Edwards"
         ],
-        "Box Office Revenue": 44.0,
+        "Box Office Revenue": 1057420387.0,
         "Country of Origin": [
             "United States"
         ]
     },
     {
         "Film Title": "Aladdin",
-        "Release Year": 34,
+        "Release Year": 2019,
         "Director(s)": [
             "Guy Ritchie"
         ],
-        "Box Office Revenue": 45.0,
+        "Box Office Revenue": 1050693953.0,
         "Country of Origin": [
             "United States"
         ]
     },
     {
         "Film Title": "Star Wars: Episode I – The Phantom Menace",
-        "Release Year": 2,
+        "Release Year": 1999,
         "Director(s)": [
             "George Lucas"
         ],
-        "Box Office Revenue": 46.0,
+        "Box Office Revenue": 1046515409.0,
         "Country of Origin": [
             "United States"
         ]
     },
     {
         "Film Title": "Moana 2",
-        "Release Year": 47,
+        "Release Year": 2024,
         "Director(s)": [
             "David Derrick Jr.",
             "[1]",
             "[1]",
             "[1]"
         ],
-        "Box Office Revenue": 47.0,
+        "Box Office Revenue": 1045751565.0,
         "Country of Origin": [
             "United States"
         ]
     },
     {
         "Film Title": "Pirates of the Caribbean: On Stranger Tides",
-        "Release Year": 6,
+        "Release Year": 2011,
         "Director(s)": [
             "Rob Marshall"
         ],
-        "Box Office Revenue": 48.0,
+        "Box Office Revenue": 1045713802.0,
         "Country of Origin": [
             "United States"
         ]
     },
     {
         "Film Title": "Jurassic Park",
-        "Release Year": 1,
+        "Release Year": 1993,
         "Director(s)": [
             "Steven Spielberg"
         ],
-        "Box Office Revenue": 49.0,
+        "Box Office Revenue": 1037535230.0,
         "Country of Origin": [
             "United States"
         ]
     },
     {
         "Film Title": "Despicable Me 3",
-        "Release Year": 24,
+        "Release Year": 2017,
         "Director(s)": [
             "Pierre Coffin",
             "Kyle Balda"
         ],
-        "Box Office Revenue": 50.0,
+        "Box Office Revenue": 1034800131.0,
         "Country of Origin": [
             "United States"
         ]
