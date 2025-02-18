@@ -38,7 +38,6 @@ document.addEventListener('DOMContentLoaded', function () {
 function filterTable() {
     const input = document.getElementById('searchInput').value.toLowerCase();
     const rows = document.querySelectorAll('#filmTable tbody tr');
-
     rows.forEach(row => {
         const title = row.cells[0].textContent.toLowerCase();
         if (title.includes(input)) {
@@ -55,13 +54,24 @@ function sortTable(columnIndex) {
     const rows = Array.from(table.rows).slice(1); // Exclude header row
 
     rows.sort((rowA, rowB) => {
-        const cellA = rowA.cells[columnIndex - 1].textContent;
-        const cellB = rowB.cells[columnIndex - 1].textContent;
+        let cellA = rowA.cells[columnIndex - 1].textContent.trim();
+        let cellB = rowB.cells[columnIndex - 1].textContent.trim();
 
-        if (!isNaN(cellA) && !isNaN(cellB)) {
-            return cellA - cellB; // Numeric sort
+        // Handle Release Year (numeric sort)
+        if (columnIndex === 2) { // Column index 2 corresponds to "Release Year"
+            return parseInt(cellA, 10) - parseInt(cellB, 10);
         }
-        return cellA.localeCompare(cellB); // String sort
+
+        // Handle Box Office Revenue (numeric sort)
+        if (columnIndex === 4) { // Column index 4 corresponds to "Box Office Revenue"
+            // Remove non-numeric characters (e.g., "$", ",") and convert to numbers
+            const revenueA = parseFloat(cellA.replace(/[^0-9.-]+/g, ""));
+            const revenueB = parseFloat(cellB.replace(/[^0-9.-]+/g, ""));
+            return revenueA - revenueB;
+        }
+
+        // Default to string comparison for other columns
+        return cellA.localeCompare(cellB);
     });
 
     // Append sorted rows back to the table
